@@ -1,2 +1,3 @@
  This is the stash file i want not commit as i am working on it.
  This file is added my the local repo.  
+ I am updating mu file from the remote. 
